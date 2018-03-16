@@ -1,0 +1,32 @@
+"Event";"Unit";"Time";"Track";"Channel";"NoteName";"NoteNumber";"NoteUnits";"NoteDuration";"NoteOnVelocity";"NoteOffVelocity";"ControllerNr";"ControllerValue";"TextType";"Text";"Program";"TempoBPM";"TempoMicroseconds";"Pitchbend";"Aftertouch";"MeterNom";"MeterDenom";"MeterUnits";"MeterNote32";"Resolution";"MIDIVersion";"Sysex";"MetaType";"MetaData";"Key";"PolyKey";"PolyValue";"RealtimeEvent";"RealtimeValue";
+"Header";0;0;;;;;;;;;;;;;;;;;;;;;;480;0
+"Tempo";0;0;1;;;;;;;;;;;;;"180,00018";333333
+"Key";0;0;1;;;;;;;;;;;;;;;;;;;;;;;;;;"C"
+"Meter";0;0;1;;;;;;;;;;;;;;;;;12;1;64;8
+"Text";0;0;1;;;;;;;;;;"trackname";"DEMO Violin Concerto";
+"Text";0;0;1;;;;;;;;;;"trackname";"DEMO Twelve-Tone Row of the 2nd Movement";
+"NoteOn";1;0;1;1;"g4";55;1919;1333;105;
+"NoteOff";1920;1333;1;1;"g4";55;;;;0
+"NoteOn";1921;1334;1;1;"a#4";58;1919;1332;80;
+"NoteOff";3840;2666;1;1;"a#4";58;;;;0
+"NoteOn";3841;2667;1;1;"d5";62;1919;1332;80;
+"NoteOff";5760;3999;1;1;"d5";62;;;;0
+"NoteOn";5761;4000;1;1;"f#5";66;1919;1333;95;
+"NoteOff";7680;5333;1;1;"f#5";66;;;;0
+"NoteOn";7681;5334;1;1;"a5";69;1919;1332;80;
+"NoteOff";9600;6666;1;1;"a5";69;;;;0
+"NoteOn";9601;6667;1;1;"c6";72;1919;1332;80;
+"NoteOff";11520;7999;1;1;"c6";72;;;;0
+"NoteOn";11521;8000;1;1;"e6";76;1919;1333;95;
+"NoteOff";13440;9333;1;1;"e6";76;;;;0
+"NoteOn";13441;9334;1;1;"g#6";80;1919;1332;80;
+"NoteOff";15360;10666;1;1;"g#6";80;;;;0
+"NoteOn";15361;10667;1;1;"b6";83;1919;1332;80;
+"NoteOff";17280;11999;1;1;"b6";83;;;;0
+"NoteOn";17281;12000;1;1;"c#7";85;1919;1333;95;
+"NoteOff";19200;13333;1;1;"c#7";85;;;;0
+"NoteOn";19201;13334;1;1;"d#7";87;1919;1332;80;
+"NoteOff";21120;14666;1;1;"d#7";87;;;;0
+"NoteOn";21121;14667;1;1;"f7";89;1919;1332;80;
+"NoteOff";23040;15999;1;1;"f7";89;;;;0
+"Endtrack";23066;16018;1;;
